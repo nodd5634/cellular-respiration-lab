@@ -4,6 +4,8 @@
 
 ## 바로 실행
 
+[실행용 HTML](downloads/Cellular%20Respiration%20Lab.html) · [소스 ZIP](downloads/Cellular%20Respiration%20Lab%20-%20source.zip)
+
 배포본 **Cellular Respiration Lab.html**을 Chrome 또는 Edge에서 연다. WebGL2가 활성화된 브라우저가 필요하다. HTML에 스크립트, 스타일, 글꼴과 3D 장면을 포함하므로 실행 중 인터넷이나 개발 서버가 필요 없다.
 
 ## 소스에서 실행
